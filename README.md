@@ -4,6 +4,10 @@ An open, practical library of **120 short-form video editing effects and techniq
 
 > Independent community resource. Not affiliated with or endorsed by Anthropic or Claude.
 
+## Creator websites
+- [FSIDM](https://fsidm.in/)
+- [Pranav Veerani](https://pranavveerani.com/)
+
 ## Browse
 Open `index.html` in a browser to search and filter the catalogue. Structured data lives in `effects/effects.json`.
 
