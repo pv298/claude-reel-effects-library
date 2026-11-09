@@ -1,0 +1,842 @@
+[
+  {
+    "id": "FX-001",
+    "name": "Whip Pan",
+    "category": "Transitions & Cuts",
+    "use_case": "Use to move between shots while preserving visual continuity and pacing.",
+    "editing_note": "Apply subtly, preview at full speed, and check mobile readability. Avoid using the effect when it distracts from the message."
+  },
+  {
+    "id": "FX-002",
+    "name": "Match Cut",
+    "category": "Transitions & Cuts",
+    "use_case": "Use to move between shots while preserving visual continuity and pacing.",
+    "editing_note": "Apply subtly, preview at full speed, and check mobile readability. Avoid using the effect when it distracts from the message."
+  },
+  {
+    "id": "FX-003",
+    "name": "J-Cut",
+    "category": "Transitions & Cuts",
+    "use_case": "Use to move between shots while preserving visual continuity and pacing.",
+    "editing_note": "Apply subtly, preview at full speed, and check mobile readability. Avoid using the effect when it distracts from the message."
+  },
+  {
+    "id": "FX-004",
+    "name": "L-Cut",
+    "category": "Transitions & Cuts",
+    "use_case": "Use to move between shots while preserving visual continuity and pacing.",
+    "editing_note": "Apply subtly, preview at full speed, and check mobile readability. Avoid using the effect when it distracts from the message."
+  },
+  {
+    "id": "FX-005",
+    "name": "Jump Cut",
+    "category": "Transitions & Cuts",
+    "use_case": "Use to move between shots while preserving visual continuity and pacing.",
+    "editing_note": "Apply subtly, preview at full speed, and check mobile readability. Avoid using the effect when it distracts from the message."
+  },
+  {
+    "id": "FX-006",
+    "name": "Smash Cut",
+    "category": "Transitions & Cuts",
+    "use_case": "Use to move between shots while preserving visual continuity and pacing.",
+    "editing_note": "Apply subtly, preview at full speed, and check mobile readability. Avoid using the effect when it distracts from the message."
+  },
+  {
+    "id": "FX-007",
+    "name": "Invisible Cut",
+    "category": "Transitions & Cuts",
+    "use_case": "Use to move between shots while preserving visual continuity and pacing.",
+    "editing_note": "Apply subtly, preview at full speed, and check mobile readability. Avoid using the effect when it distracts from the message."
+  },
+  {
+    "id": "FX-008",
+    "name": "Speed-Ramp Transition",
+    "category": "Transitions & Cuts",
+    "use_case": "Use to move between shots while preserving visual continuity and pacing.",
+    "editing_note": "Apply subtly, preview at full speed, and check mobile readability. Avoid using the effect when it distracts from the message."
+  },
+  {
+    "id": "FX-009",
+    "name": "Zoom-In Transition",
+    "category": "Transitions & Cuts",
+    "use_case": "Use to move between shots while preserving visual continuity and pacing.",
+    "editing_note": "Apply subtly, preview at full speed, and check mobile readability. Avoid using the effect when it distracts from the message."
+  },
+  {
+    "id": "FX-010",
+    "name": "Zoom-Out Transition",
+    "category": "Transitions & Cuts",
+    "use_case": "Use to move between shots while preserving visual continuity and pacing.",
+    "editing_note": "Apply subtly, preview at full speed, and check mobile readability. Avoid using the effect when it distracts from the message."
+  },
+  {
+    "id": "FX-011",
+    "name": "Spin Transition",
+    "category": "Transitions & Cuts",
+    "use_case": "Use to move between shots while preserving visual continuity and pacing.",
+    "editing_note": "Apply subtly, preview at full speed, and check mobile readability. Avoid using the effect when it distracts from the message."
+  },
+  {
+    "id": "FX-012",
+    "name": "Blur Transition",
+    "category": "Transitions & Cuts",
+    "use_case": "Use to move between shots while preserving visual continuity and pacing.",
+    "editing_note": "Apply subtly, preview at full speed, and check mobile readability. Avoid using the effect when it distracts from the message."
+  },
+  {
+    "id": "FX-013",
+    "name": "Glitch Transition",
+    "category": "Transitions & Cuts",
+    "use_case": "Use to move between shots while preserving visual continuity and pacing.",
+    "editing_note": "Apply subtly, preview at full speed, and check mobile readability. Avoid using the effect when it distracts from the message."
+  },
+  {
+    "id": "FX-014",
+    "name": "Light-Leak Transition",
+    "category": "Transitions & Cuts",
+    "use_case": "Use to move between shots while preserving visual continuity and pacing.",
+    "editing_note": "Apply subtly, preview at full speed, and check mobile readability. Avoid using the effect when it distracts from the message."
+  },
+  {
+    "id": "FX-015",
+    "name": "Film-Burn Transition",
+    "category": "Transitions & Cuts",
+    "use_case": "Use to move between shots while preserving visual continuity and pacing.",
+    "editing_note": "Apply subtly, preview at full speed, and check mobile readability. Avoid using the effect when it distracts from the message."
+  },
+  {
+    "id": "FX-016",
+    "name": "Luma Matte Reveal",
+    "category": "Transitions & Cuts",
+    "use_case": "Use to move between shots while preserving visual continuity and pacing.",
+    "editing_note": "Apply subtly, preview at full speed, and check mobile readability. Avoid using the effect when it distracts from the message."
+  },
+  {
+    "id": "FX-017",
+    "name": "Split-Wipe Transition",
+    "category": "Transitions & Cuts",
+    "use_case": "Use to move between shots while preserving visual continuity and pacing.",
+    "editing_note": "Apply subtly, preview at full speed, and check mobile readability. Avoid using the effect when it distracts from the message."
+  },
+  {
+    "id": "FX-018",
+    "name": "Mask Reveal",
+    "category": "Transitions & Cuts",
+    "use_case": "Use to move between shots while preserving visual continuity and pacing.",
+    "editing_note": "Apply subtly, preview at full speed, and check mobile readability. Avoid using the effect when it distracts from the message."
+  },
+  {
+    "id": "FX-019",
+    "name": "Cross Dissolve",
+    "category": "Transitions & Cuts",
+    "use_case": "Use to move between shots while preserving visual continuity and pacing.",
+    "editing_note": "Apply subtly, preview at full speed, and check mobile readability. Avoid using the effect when it distracts from the message."
+  },
+  {
+    "id": "FX-020",
+    "name": "Hard Cut",
+    "category": "Transitions & Cuts",
+    "use_case": "Use to move between shots while preserving visual continuity and pacing.",
+    "editing_note": "Apply subtly, preview at full speed, and check mobile readability. Avoid using the effect when it distracts from the message."
+  },
+  {
+    "id": "FX-021",
+    "name": "Push-In",
+    "category": "Motion & Camera",
+    "use_case": "Use to add intentional movement, guide attention or create a sense of camera motion.",
+    "editing_note": "Apply subtly, preview at full speed, and check mobile readability. Avoid using the effect when it distracts from the message."
+  },
+  {
+    "id": "FX-022",
+    "name": "Pull-Out",
+    "category": "Motion & Camera",
+    "use_case": "Use to add intentional movement, guide attention or create a sense of camera motion.",
+    "editing_note": "Apply subtly, preview at full speed, and check mobile readability. Avoid using the effect when it distracts from the message."
+  },
+  {
+    "id": "FX-023",
+    "name": "Digital Dolly Zoom",
+    "category": "Motion & Camera",
+    "use_case": "Use to add intentional movement, guide attention or create a sense of camera motion.",
+    "editing_note": "Apply subtly, preview at full speed, and check mobile readability. Avoid using the effect when it distracts from the message."
+  },
+  {
+    "id": "FX-024",
+    "name": "Handheld Shake",
+    "category": "Motion & Camera",
+    "use_case": "Use to add intentional movement, guide attention or create a sense of camera motion.",
+    "editing_note": "Apply subtly, preview at full speed, and check mobile readability. Avoid using the effect when it distracts from the message."
+  },
+  {
+    "id": "FX-025",
+    "name": "Subtle Camera Drift",
+    "category": "Motion & Camera",
+    "use_case": "Use to add intentional movement, guide attention or create a sense of camera motion.",
+    "editing_note": "Apply subtly, preview at full speed, and check mobile readability. Avoid using the effect when it distracts from the message."
+  },
+  {
+    "id": "FX-026",
+    "name": "Parallax Move",
+    "category": "Motion & Camera",
+    "use_case": "Use to add intentional movement, guide attention or create a sense of camera motion.",
+    "editing_note": "Apply subtly, preview at full speed, and check mobile readability. Avoid using the effect when it distracts from the message."
+  },
+  {
+    "id": "FX-027",
+    "name": "Orbit Move",
+    "category": "Motion & Camera",
+    "use_case": "Use to add intentional movement, guide attention or create a sense of camera motion.",
+    "editing_note": "Apply subtly, preview at full speed, and check mobile readability. Avoid using the effect when it distracts from the message."
+  },
+  {
+    "id": "FX-028",
+    "name": "Tilt-Up Reveal",
+    "category": "Motion & Camera",
+    "use_case": "Use to add intentional movement, guide attention or create a sense of camera motion.",
+    "editing_note": "Apply subtly, preview at full speed, and check mobile readability. Avoid using the effect when it distracts from the message."
+  },
+  {
+    "id": "FX-029",
+    "name": "Tilt-Down Reveal",
+    "category": "Motion & Camera",
+    "use_case": "Use to add intentional movement, guide attention or create a sense of camera motion.",
+    "editing_note": "Apply subtly, preview at full speed, and check mobile readability. Avoid using the effect when it distracts from the message."
+  },
+  {
+    "id": "FX-030",
+    "name": "Pan Follow",
+    "category": "Motion & Camera",
+    "use_case": "Use to add intentional movement, guide attention or create a sense of camera motion.",
+    "editing_note": "Apply subtly, preview at full speed, and check mobile readability. Avoid using the effect when it distracts from the message."
+  },
+  {
+    "id": "FX-031",
+    "name": "Tracking Simulation",
+    "category": "Motion & Camera",
+    "use_case": "Use to add intentional movement, guide attention or create a sense of camera motion.",
+    "editing_note": "Apply subtly, preview at full speed, and check mobile readability. Avoid using the effect when it distracts from the message."
+  },
+  {
+    "id": "FX-032",
+    "name": "Freeze Frame",
+    "category": "Motion & Camera",
+    "use_case": "Use to add intentional movement, guide attention or create a sense of camera motion.",
+    "editing_note": "Apply subtly, preview at full speed, and check mobile readability. Avoid using the effect when it distracts from the message."
+  },
+  {
+    "id": "FX-033",
+    "name": "Speed Ramp",
+    "category": "Motion & Camera",
+    "use_case": "Use to add intentional movement, guide attention or create a sense of camera motion.",
+    "editing_note": "Apply subtly, preview at full speed, and check mobile readability. Avoid using the effect when it distracts from the message."
+  },
+  {
+    "id": "FX-034",
+    "name": "Slow Motion",
+    "category": "Motion & Camera",
+    "use_case": "Use to add intentional movement, guide attention or create a sense of camera motion.",
+    "editing_note": "Apply subtly, preview at full speed, and check mobile readability. Avoid using the effect when it distracts from the message."
+  },
+  {
+    "id": "FX-035",
+    "name": "Hyperlapse",
+    "category": "Motion & Camera",
+    "use_case": "Use to add intentional movement, guide attention or create a sense of camera motion.",
+    "editing_note": "Apply subtly, preview at full speed, and check mobile readability. Avoid using the effect when it distracts from the message."
+  },
+  {
+    "id": "FX-036",
+    "name": "Motion Blur",
+    "category": "Motion & Camera",
+    "use_case": "Use to add intentional movement, guide attention or create a sense of camera motion.",
+    "editing_note": "Apply subtly, preview at full speed, and check mobile readability. Avoid using the effect when it distracts from the message."
+  },
+  {
+    "id": "FX-037",
+    "name": "Ken Burns Move",
+    "category": "Motion & Camera",
+    "use_case": "Use to add intentional movement, guide attention or create a sense of camera motion.",
+    "editing_note": "Apply subtly, preview at full speed, and check mobile readability. Avoid using the effect when it distracts from the message."
+  },
+  {
+    "id": "FX-038",
+    "name": "Whip-Pan Simulation",
+    "category": "Motion & Camera",
+    "use_case": "Use to add intentional movement, guide attention or create a sense of camera motion.",
+    "editing_note": "Apply subtly, preview at full speed, and check mobile readability. Avoid using the effect when it distracts from the message."
+  },
+  {
+    "id": "FX-039",
+    "name": "Rack-Focus Simulation",
+    "category": "Motion & Camera",
+    "use_case": "Use to add intentional movement, guide attention or create a sense of camera motion.",
+    "editing_note": "Apply subtly, preview at full speed, and check mobile readability. Avoid using the effect when it distracts from the message."
+  },
+  {
+    "id": "FX-040",
+    "name": "Speed-Pulse Movement",
+    "category": "Motion & Camera",
+    "use_case": "Use to add intentional movement, guide attention or create a sense of camera motion.",
+    "editing_note": "Apply subtly, preview at full speed, and check mobile readability. Avoid using the effect when it distracts from the message."
+  },
+  {
+    "id": "FX-041",
+    "name": "Word-by-Word Captions",
+    "category": "Typography & Graphics",
+    "use_case": "Use to emphasise key words, improve comprehension and reinforce visual hierarchy.",
+    "editing_note": "Apply subtly, preview at full speed, and check mobile readability. Avoid using the effect when it distracts from the message."
+  },
+  {
+    "id": "FX-042",
+    "name": "Kinetic Typography",
+    "category": "Typography & Graphics",
+    "use_case": "Use to emphasise key words, improve comprehension and reinforce visual hierarchy.",
+    "editing_note": "Apply subtly, preview at full speed, and check mobile readability. Avoid using the effect when it distracts from the message."
+  },
+  {
+    "id": "FX-043",
+    "name": "Typewriter Reveal",
+    "category": "Typography & Graphics",
+    "use_case": "Use to emphasise key words, improve comprehension and reinforce visual hierarchy.",
+    "editing_note": "Apply subtly, preview at full speed, and check mobile readability. Avoid using the effect when it distracts from the message."
+  },
+  {
+    "id": "FX-044",
+    "name": "Highlight Sweep",
+    "category": "Typography & Graphics",
+    "use_case": "Use to emphasise key words, improve comprehension and reinforce visual hierarchy.",
+    "editing_note": "Apply subtly, preview at full speed, and check mobile readability. Avoid using the effect when it distracts from the message."
+  },
+  {
+    "id": "FX-045",
+    "name": "Lower Third",
+    "category": "Typography & Graphics",
+    "use_case": "Use to emphasise key words, improve comprehension and reinforce visual hierarchy.",
+    "editing_note": "Apply subtly, preview at full speed, and check mobile readability. Avoid using the effect when it distracts from the message."
+  },
+  {
+    "id": "FX-046",
+    "name": "Callout Labels",
+    "category": "Typography & Graphics",
+    "use_case": "Use to emphasise key words, improve comprehension and reinforce visual hierarchy.",
+    "editing_note": "Apply subtly, preview at full speed, and check mobile readability. Avoid using the effect when it distracts from the message."
+  },
+  {
+    "id": "FX-047",
+    "name": "Animated Underline",
+    "category": "Typography & Graphics",
+    "use_case": "Use to emphasise key words, improve comprehension and reinforce visual hierarchy.",
+    "editing_note": "Apply subtly, preview at full speed, and check mobile readability. Avoid using the effect when it distracts from the message."
+  },
+  {
+    "id": "FX-048",
+    "name": "Pop-Up Text",
+    "category": "Typography & Graphics",
+    "use_case": "Use to emphasise key words, improve comprehension and reinforce visual hierarchy.",
+    "editing_note": "Apply subtly, preview at full speed, and check mobile readability. Avoid using the effect when it distracts from the message."
+  },
+  {
+    "id": "FX-049",
+    "name": "Split-Screen Labels",
+    "category": "Typography & Graphics",
+    "use_case": "Use to emphasise key words, improve comprehension and reinforce visual hierarchy.",
+    "editing_note": "Apply subtly, preview at full speed, and check mobile readability. Avoid using the effect when it distracts from the message."
+  },
+  {
+    "id": "FX-050",
+    "name": "Text Mask Reveal",
+    "category": "Typography & Graphics",
+    "use_case": "Use to emphasise key words, improve comprehension and reinforce visual hierarchy.",
+    "editing_note": "Apply subtly, preview at full speed, and check mobile readability. Avoid using the effect when it distracts from the message."
+  },
+  {
+    "id": "FX-051",
+    "name": "Glitch Text",
+    "category": "Typography & Graphics",
+    "use_case": "Use to emphasise key words, improve comprehension and reinforce visual hierarchy.",
+    "editing_note": "Apply subtly, preview at full speed, and check mobile readability. Avoid using the effect when it distracts from the message."
+  },
+  {
+    "id": "FX-052",
+    "name": "Tracking Text",
+    "category": "Typography & Graphics",
+    "use_case": "Use to emphasise key words, improve comprehension and reinforce visual hierarchy.",
+    "editing_note": "Apply subtly, preview at full speed, and check mobile readability. Avoid using the effect when it distracts from the message."
+  },
+  {
+    "id": "FX-053",
+    "name": "Karaoke Captions",
+    "category": "Typography & Graphics",
+    "use_case": "Use to emphasise key words, improve comprehension and reinforce visual hierarchy.",
+    "editing_note": "Apply subtly, preview at full speed, and check mobile readability. Avoid using the effect when it distracts from the message."
+  },
+  {
+    "id": "FX-054",
+    "name": "Number Counter",
+    "category": "Typography & Graphics",
+    "use_case": "Use to emphasise key words, improve comprehension and reinforce visual hierarchy.",
+    "editing_note": "Apply subtly, preview at full speed, and check mobile readability. Avoid using the effect when it distracts from the message."
+  },
+  {
+    "id": "FX-055",
+    "name": "Progress Bar",
+    "category": "Typography & Graphics",
+    "use_case": "Use to emphasise key words, improve comprehension and reinforce visual hierarchy.",
+    "editing_note": "Apply subtly, preview at full speed, and check mobile readability. Avoid using the effect when it distracts from the message."
+  },
+  {
+    "id": "FX-056",
+    "name": "Subtitle Emphasis",
+    "category": "Typography & Graphics",
+    "use_case": "Use to emphasise key words, improve comprehension and reinforce visual hierarchy.",
+    "editing_note": "Apply subtly, preview at full speed, and check mobile readability. Avoid using the effect when it distracts from the message."
+  },
+  {
+    "id": "FX-057",
+    "name": "Caption Bounce-In",
+    "category": "Typography & Graphics",
+    "use_case": "Use to emphasise key words, improve comprehension and reinforce visual hierarchy.",
+    "editing_note": "Apply subtly, preview at full speed, and check mobile readability. Avoid using the effect when it distracts from the message."
+  },
+  {
+    "id": "FX-058",
+    "name": "Text Tracking Reveal",
+    "category": "Typography & Graphics",
+    "use_case": "Use to emphasise key words, improve comprehension and reinforce visual hierarchy.",
+    "editing_note": "Apply subtly, preview at full speed, and check mobile readability. Avoid using the effect when it distracts from the message."
+  },
+  {
+    "id": "FX-059",
+    "name": "Animated Sticker",
+    "category": "Typography & Graphics",
+    "use_case": "Use to emphasise key words, improve comprehension and reinforce visual hierarchy.",
+    "editing_note": "Apply subtly, preview at full speed, and check mobile readability. Avoid using the effect when it distracts from the message."
+  },
+  {
+    "id": "FX-060",
+    "name": "Logo Sting",
+    "category": "Typography & Graphics",
+    "use_case": "Use to emphasise key words, improve comprehension and reinforce visual hierarchy.",
+    "editing_note": "Apply subtly, preview at full speed, and check mobile readability. Avoid using the effect when it distracts from the message."
+  },
+  {
+    "id": "FX-061",
+    "name": "Cinematic Contrast",
+    "category": "Color & Film Looks",
+    "use_case": "Use to create a consistent visual mood while keeping skin tones and product colors credible.",
+    "editing_note": "Apply subtly, preview at full speed, and check mobile readability. Avoid using the effect when it distracts from the message."
+  },
+  {
+    "id": "FX-062",
+    "name": "Warm Film Look",
+    "category": "Color & Film Looks",
+    "use_case": "Use to create a consistent visual mood while keeping skin tones and product colors credible.",
+    "editing_note": "Apply subtly, preview at full speed, and check mobile readability. Avoid using the effect when it distracts from the message."
+  },
+  {
+    "id": "FX-063",
+    "name": "Cool Film Look",
+    "category": "Color & Film Looks",
+    "use_case": "Use to create a consistent visual mood while keeping skin tones and product colors credible.",
+    "editing_note": "Apply subtly, preview at full speed, and check mobile readability. Avoid using the effect when it distracts from the message."
+  },
+  {
+    "id": "FX-064",
+    "name": "Teal and Orange Grade",
+    "category": "Color & Film Looks",
+    "use_case": "Use to create a consistent visual mood while keeping skin tones and product colors credible.",
+    "editing_note": "Apply subtly, preview at full speed, and check mobile readability. Avoid using the effect when it distracts from the message."
+  },
+  {
+    "id": "FX-065",
+    "name": "Soft Pastel Grade",
+    "category": "Color & Film Looks",
+    "use_case": "Use to create a consistent visual mood while keeping skin tones and product colors credible.",
+    "editing_note": "Apply subtly, preview at full speed, and check mobile readability. Avoid using the effect when it distracts from the message."
+  },
+  {
+    "id": "FX-066",
+    "name": "Black and White",
+    "category": "Color & Film Looks",
+    "use_case": "Use to create a consistent visual mood while keeping skin tones and product colors credible.",
+    "editing_note": "Apply subtly, preview at full speed, and check mobile readability. Avoid using the effect when it distracts from the message."
+  },
+  {
+    "id": "FX-067",
+    "name": "Bleach Bypass",
+    "category": "Color & Film Looks",
+    "use_case": "Use to create a consistent visual mood while keeping skin tones and product colors credible.",
+    "editing_note": "Apply subtly, preview at full speed, and check mobile readability. Avoid using the effect when it distracts from the message."
+  },
+  {
+    "id": "FX-068",
+    "name": "Vintage Fade",
+    "category": "Color & Film Looks",
+    "use_case": "Use to create a consistent visual mood while keeping skin tones and product colors credible.",
+    "editing_note": "Apply subtly, preview at full speed, and check mobile readability. Avoid using the effect when it distracts from the message."
+  },
+  {
+    "id": "FX-069",
+    "name": "Film Grain",
+    "category": "Color & Film Looks",
+    "use_case": "Use to create a consistent visual mood while keeping skin tones and product colors credible.",
+    "editing_note": "Apply subtly, preview at full speed, and check mobile readability. Avoid using the effect when it distracts from the message."
+  },
+  {
+    "id": "FX-070",
+    "name": "Halation",
+    "category": "Color & Film Looks",
+    "use_case": "Use to create a consistent visual mood while keeping skin tones and product colors credible.",
+    "editing_note": "Apply subtly, preview at full speed, and check mobile readability. Avoid using the effect when it distracts from the message."
+  },
+  {
+    "id": "FX-071",
+    "name": "Bloom",
+    "category": "Color & Film Looks",
+    "use_case": "Use to create a consistent visual mood while keeping skin tones and product colors credible.",
+    "editing_note": "Apply subtly, preview at full speed, and check mobile readability. Avoid using the effect when it distracts from the message."
+  },
+  {
+    "id": "FX-072",
+    "name": "Vignette",
+    "category": "Color & Film Looks",
+    "use_case": "Use to create a consistent visual mood while keeping skin tones and product colors credible.",
+    "editing_note": "Apply subtly, preview at full speed, and check mobile readability. Avoid using the effect when it distracts from the message."
+  },
+  {
+    "id": "FX-073",
+    "name": "Split Toning",
+    "category": "Color & Film Looks",
+    "use_case": "Use to create a consistent visual mood while keeping skin tones and product colors credible.",
+    "editing_note": "Apply subtly, preview at full speed, and check mobile readability. Avoid using the effect when it distracts from the message."
+  },
+  {
+    "id": "FX-074",
+    "name": "Selective Color",
+    "category": "Color & Film Looks",
+    "use_case": "Use to create a consistent visual mood while keeping skin tones and product colors credible.",
+    "editing_note": "Apply subtly, preview at full speed, and check mobile readability. Avoid using the effect when it distracts from the message."
+  },
+  {
+    "id": "FX-075",
+    "name": "Day-for-Night Grade",
+    "category": "Color & Film Looks",
+    "use_case": "Use to create a consistent visual mood while keeping skin tones and product colors credible.",
+    "editing_note": "Apply subtly, preview at full speed, and check mobile readability. Avoid using the effect when it distracts from the message."
+  },
+  {
+    "id": "FX-076",
+    "name": "Golden Hour Grade",
+    "category": "Color & Film Looks",
+    "use_case": "Use to create a consistent visual mood while keeping skin tones and product colors credible.",
+    "editing_note": "Apply subtly, preview at full speed, and check mobile readability. Avoid using the effect when it distracts from the message."
+  },
+  {
+    "id": "FX-077",
+    "name": "Skin Tone Correction",
+    "category": "Color & Film Looks",
+    "use_case": "Use to create a consistent visual mood while keeping skin tones and product colors credible.",
+    "editing_note": "Apply subtly, preview at full speed, and check mobile readability. Avoid using the effect when it distracts from the message."
+  },
+  {
+    "id": "FX-078",
+    "name": "Desaturated Accent Color",
+    "category": "Color & Film Looks",
+    "use_case": "Use to create a consistent visual mood while keeping skin tones and product colors credible.",
+    "editing_note": "Apply subtly, preview at full speed, and check mobile readability. Avoid using the effect when it distracts from the message."
+  },
+  {
+    "id": "FX-079",
+    "name": "Matte Fade",
+    "category": "Color & Film Looks",
+    "use_case": "Use to create a consistent visual mood while keeping skin tones and product colors credible.",
+    "editing_note": "Apply subtly, preview at full speed, and check mobile readability. Avoid using the effect when it distracts from the message."
+  },
+  {
+    "id": "FX-080",
+    "name": "Flash Frame",
+    "category": "Color & Film Looks",
+    "use_case": "Use to create a consistent visual mood while keeping skin tones and product colors credible.",
+    "editing_note": "Apply subtly, preview at full speed, and check mobile readability. Avoid using the effect when it distracts from the message."
+  },
+  {
+    "id": "FX-081",
+    "name": "Green Screen Key",
+    "category": "Effects & Compositing",
+    "use_case": "Use selectively to combine layers, isolate subjects or add visual emphasis.",
+    "editing_note": "Apply subtly, preview at full speed, and check mobile readability. Avoid using the effect when it distracts from the message."
+  },
+  {
+    "id": "FX-082",
+    "name": "Chroma Spill Suppression",
+    "category": "Effects & Compositing",
+    "use_case": "Use selectively to combine layers, isolate subjects or add visual emphasis.",
+    "editing_note": "Apply subtly, preview at full speed, and check mobile readability. Avoid using the effect when it distracts from the message."
+  },
+  {
+    "id": "FX-083",
+    "name": "Masking Reveal",
+    "category": "Effects & Compositing",
+    "use_case": "Use selectively to combine layers, isolate subjects or add visual emphasis.",
+    "editing_note": "Apply subtly, preview at full speed, and check mobile readability. Avoid using the effect when it distracts from the message."
+  },
+  {
+    "id": "FX-084",
+    "name": "Split Screen",
+    "category": "Effects & Compositing",
+    "use_case": "Use selectively to combine layers, isolate subjects or add visual emphasis.",
+    "editing_note": "Apply subtly, preview at full speed, and check mobile readability. Avoid using the effect when it distracts from the message."
+  },
+  {
+    "id": "FX-085",
+    "name": "Picture-in-Picture",
+    "category": "Effects & Compositing",
+    "use_case": "Use selectively to combine layers, isolate subjects or add visual emphasis.",
+    "editing_note": "Apply subtly, preview at full speed, and check mobile readability. Avoid using the effect when it distracts from the message."
+  },
+  {
+    "id": "FX-086",
+    "name": "Screen Replacement",
+    "category": "Effects & Compositing",
+    "use_case": "Use selectively to combine layers, isolate subjects or add visual emphasis.",
+    "editing_note": "Apply subtly, preview at full speed, and check mobile readability. Avoid using the effect when it distracts from the message."
+  },
+  {
+    "id": "FX-087",
+    "name": "Object Tracking",
+    "category": "Effects & Compositing",
+    "use_case": "Use selectively to combine layers, isolate subjects or add visual emphasis.",
+    "editing_note": "Apply subtly, preview at full speed, and check mobile readability. Avoid using the effect when it distracts from the message."
+  },
+  {
+    "id": "FX-088",
+    "name": "Motion Tracking",
+    "category": "Effects & Compositing",
+    "use_case": "Use selectively to combine layers, isolate subjects or add visual emphasis.",
+    "editing_note": "Apply subtly, preview at full speed, and check mobile readability. Avoid using the effect when it distracts from the message."
+  },
+  {
+    "id": "FX-089",
+    "name": "Drop Shadow",
+    "category": "Effects & Compositing",
+    "use_case": "Use selectively to combine layers, isolate subjects or add visual emphasis.",
+    "editing_note": "Apply subtly, preview at full speed, and check mobile readability. Avoid using the effect when it distracts from the message."
+  },
+  {
+    "id": "FX-090",
+    "name": "Edge Glow",
+    "category": "Effects & Compositing",
+    "use_case": "Use selectively to combine layers, isolate subjects or add visual emphasis.",
+    "editing_note": "Apply subtly, preview at full speed, and check mobile readability. Avoid using the effect when it distracts from the message."
+  },
+  {
+    "id": "FX-091",
+    "name": "Lens Flare",
+    "category": "Effects & Compositing",
+    "use_case": "Use selectively to combine layers, isolate subjects or add visual emphasis.",
+    "editing_note": "Apply subtly, preview at full speed, and check mobile readability. Avoid using the effect when it distracts from the message."
+  },
+  {
+    "id": "FX-092",
+    "name": "Light Rays",
+    "category": "Effects & Compositing",
+    "use_case": "Use selectively to combine layers, isolate subjects or add visual emphasis.",
+    "editing_note": "Apply subtly, preview at full speed, and check mobile readability. Avoid using the effect when it distracts from the message."
+  },
+  {
+    "id": "FX-093",
+    "name": "Particle Overlay",
+    "category": "Effects & Compositing",
+    "use_case": "Use selectively to combine layers, isolate subjects or add visual emphasis.",
+    "editing_note": "Apply subtly, preview at full speed, and check mobile readability. Avoid using the effect when it distracts from the message."
+  },
+  {
+    "id": "FX-094",
+    "name": "Dust Overlay",
+    "category": "Effects & Compositing",
+    "use_case": "Use selectively to combine layers, isolate subjects or add visual emphasis.",
+    "editing_note": "Apply subtly, preview at full speed, and check mobile readability. Avoid using the effect when it distracts from the message."
+  },
+  {
+    "id": "FX-095",
+    "name": "Film Scratch Overlay",
+    "category": "Effects & Compositing",
+    "use_case": "Use selectively to combine layers, isolate subjects or add visual emphasis.",
+    "editing_note": "Apply subtly, preview at full speed, and check mobile readability. Avoid using the effect when it distracts from the message."
+  },
+  {
+    "id": "FX-096",
+    "name": "Chromatic Aberration",
+    "category": "Effects & Compositing",
+    "use_case": "Use selectively to combine layers, isolate subjects or add visual emphasis.",
+    "editing_note": "Apply subtly, preview at full speed, and check mobile readability. Avoid using the effect when it distracts from the message."
+  },
+  {
+    "id": "FX-097",
+    "name": "RGB Split",
+    "category": "Effects & Compositing",
+    "use_case": "Use selectively to combine layers, isolate subjects or add visual emphasis.",
+    "editing_note": "Apply subtly, preview at full speed, and check mobile readability. Avoid using the effect when it distracts from the message."
+  },
+  {
+    "id": "FX-098",
+    "name": "Digital Glitch",
+    "category": "Effects & Compositing",
+    "use_case": "Use selectively to combine layers, isolate subjects or add visual emphasis.",
+    "editing_note": "Apply subtly, preview at full speed, and check mobile readability. Avoid using the effect when it distracts from the message."
+  },
+  {
+    "id": "FX-099",
+    "name": "Perspective Pin",
+    "category": "Effects & Compositing",
+    "use_case": "Use selectively to combine layers, isolate subjects or add visual emphasis.",
+    "editing_note": "Apply subtly, preview at full speed, and check mobile readability. Avoid using the effect when it distracts from the message."
+  },
+  {
+    "id": "FX-100",
+    "name": "Edge Glow Outline",
+    "category": "Effects & Compositing",
+    "use_case": "Use selectively to combine layers, isolate subjects or add visual emphasis.",
+    "editing_note": "Apply subtly, preview at full speed, and check mobile readability. Avoid using the effect when it distracts from the message."
+  },
+  {
+    "id": "FX-101",
+    "name": "Beat-Synced Cuts",
+    "category": "Audio & Rhythm",
+    "use_case": "Use to improve pacing, transitions and clarity without overpowering speech.",
+    "editing_note": "Apply subtly, preview at full speed, and check mobile readability. Avoid using the effect when it distracts from the message."
+  },
+  {
+    "id": "FX-102",
+    "name": "Whoosh Transition",
+    "category": "Audio & Rhythm",
+    "use_case": "Use to improve pacing, transitions and clarity without overpowering speech.",
+    "editing_note": "Apply subtly, preview at full speed, and check mobile readability. Avoid using the effect when it distracts from the message."
+  },
+  {
+    "id": "FX-103",
+    "name": "Impact Hit",
+    "category": "Audio & Rhythm",
+    "use_case": "Use to improve pacing, transitions and clarity without overpowering speech.",
+    "editing_note": "Apply subtly, preview at full speed, and check mobile readability. Avoid using the effect when it distracts from the message."
+  },
+  {
+    "id": "FX-104",
+    "name": "Riser Build",
+    "category": "Audio & Rhythm",
+    "use_case": "Use to improve pacing, transitions and clarity without overpowering speech.",
+    "editing_note": "Apply subtly, preview at full speed, and check mobile readability. Avoid using the effect when it distracts from the message."
+  },
+  {
+    "id": "FX-105",
+    "name": "Bass Drop Cut",
+    "category": "Audio & Rhythm",
+    "use_case": "Use to improve pacing, transitions and clarity without overpowering speech.",
+    "editing_note": "Apply subtly, preview at full speed, and check mobile readability. Avoid using the effect when it distracts from the message."
+  },
+  {
+    "id": "FX-106",
+    "name": "Audio Ducking (voice priority)",
+    "category": "Audio & Rhythm",
+    "use_case": "Use to improve pacing, transitions and clarity without overpowering speech.",
+    "editing_note": "Apply subtly, preview at full speed, and check mobile readability. Avoid using the effect when it distracts from the message."
+  },
+  {
+    "id": "FX-107",
+    "name": "Room-Tone Crossfade",
+    "category": "Audio & Rhythm",
+    "use_case": "Use to improve pacing, transitions and clarity without overpowering speech.",
+    "editing_note": "Apply subtly, preview at full speed, and check mobile readability. Avoid using the effect when it distracts from the message."
+  },
+  {
+    "id": "FX-108",
+    "name": "Sound-Bridge Transition",
+    "category": "Audio & Rhythm",
+    "use_case": "Use to improve pacing, transitions and clarity without overpowering speech.",
+    "editing_note": "Apply subtly, preview at full speed, and check mobile readability. Avoid using the effect when it distracts from the message."
+  },
+  {
+    "id": "FX-109",
+    "name": "Reverse-Reverb Lead-In",
+    "category": "Audio & Rhythm",
+    "use_case": "Use to improve pacing, transitions and clarity without overpowering speech.",
+    "editing_note": "Apply subtly, preview at full speed, and check mobile readability. Avoid using the effect when it distracts from the message."
+  },
+  {
+    "id": "FX-110",
+    "name": "Micro-Silence Hook",
+    "category": "Audio & Rhythm",
+    "use_case": "Use to improve pacing, transitions and clarity without overpowering speech.",
+    "editing_note": "Apply subtly, preview at full speed, and check mobile readability. Avoid using the effect when it distracts from the message."
+  },
+  {
+    "id": "FX-111",
+    "name": "Ambient Sound Layer",
+    "category": "Audio & Rhythm",
+    "use_case": "Use to improve pacing, transitions and clarity without overpowering speech.",
+    "editing_note": "Apply subtly, preview at full speed, and check mobile readability. Avoid using the effect when it distracts from the message."
+  },
+  {
+    "id": "FX-112",
+    "name": "Foley Accents",
+    "category": "Audio & Rhythm",
+    "use_case": "Use to improve pacing, transitions and clarity without overpowering speech.",
+    "editing_note": "Apply subtly, preview at full speed, and check mobile readability. Avoid using the effect when it distracts from the message."
+  },
+  {
+    "id": "FX-113",
+    "name": "Subtle UI Clicks",
+    "category": "Audio & Rhythm",
+    "use_case": "Use to improve pacing, transitions and clarity without overpowering speech.",
+    "editing_note": "Apply subtly, preview at full speed, and check mobile readability. Avoid using the effect when it distracts from the message."
+  },
+  {
+    "id": "FX-114",
+    "name": "Audio J-Cut",
+    "category": "Audio & Rhythm",
+    "use_case": "Use to improve pacing, transitions and clarity without overpowering speech.",
+    "editing_note": "Apply subtly, preview at full speed, and check mobile readability. Avoid using the effect when it distracts from the message."
+  },
+  {
+    "id": "FX-115",
+    "name": "Audio L-Cut",
+    "category": "Audio & Rhythm",
+    "use_case": "Use to improve pacing, transitions and clarity without overpowering speech.",
+    "editing_note": "Apply subtly, preview at full speed, and check mobile readability. Avoid using the effect when it distracts from the message."
+  },
+  {
+    "id": "FX-116",
+    "name": "Rhythmic Montage",
+    "category": "Audio & Rhythm",
+    "use_case": "Use to improve pacing, transitions and clarity without overpowering speech.",
+    "editing_note": "Apply subtly, preview at full speed, and check mobile readability. Avoid using the effect when it distracts from the message."
+  },
+  {
+    "id": "FX-117",
+    "name": "Music Beat Markers",
+    "category": "Audio & Rhythm",
+    "use_case": "Use to improve pacing, transitions and clarity without overpowering speech.",
+    "editing_note": "Apply subtly, preview at full speed, and check mobile readability. Avoid using the effect when it distracts from the message."
+  },
+  {
+    "id": "FX-118",
+    "name": "Dialogue Noise Reduction",
+    "category": "Audio & Rhythm",
+    "use_case": "Use to improve pacing, transitions and clarity without overpowering speech.",
+    "editing_note": "Apply subtly, preview at full speed, and check mobile readability. Avoid using the effect when it distracts from the message."
+  },
+  {
+    "id": "FX-119",
+    "name": "Stereo Width Automation",
+    "category": "Audio & Rhythm",
+    "use_case": "Use to improve pacing, transitions and clarity without overpowering speech.",
+    "editing_note": "Apply subtly, preview at full speed, and check mobile readability. Avoid using the effect when it distracts from the message."
+  },
+  {
+    "id": "FX-120",
+    "name": "End Sting",
+    "category": "Audio & Rhythm",
+    "use_case": "Use to improve pacing, transitions and clarity without overpowering speech.",
+    "editing_note": "Apply subtly, preview at full speed, and check mobile readability. Avoid using the effect when it distracts from the message."
+  }
+]
